@@ -1,7 +1,7 @@
 # Angular Demo App
 
 Demo Project part of [Angular Academy Workshop](https://angular.ac).  
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.0.1.
+Angular 8 demo app, generated with Angular CLI version 8.0.1.
 
 ## Installation
 
@@ -10,4 +10,5 @@ Run `npm install`
 
 ## Try it!
 
-Run `ng s -o` for a dev server. Navigate to `http://localhost:10001/`. The app will automatically reload if you change any of the source files.
+Run `ng s -o` for a dev server.  
+The app is running on `http://localhost:10001/` and will automatically reload if you change any of the source files.
